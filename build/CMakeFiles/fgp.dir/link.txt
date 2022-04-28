@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -O2 -g -DNDEBUG   CMakeFiles/fgp.dir/src/main.cpp.o  -o ../bin/fgp   -L/home/idabbadi/Desktop/FGP22SS/lib  -Wl,-rpath,/home/idabbadi/Desktop/FGP22SS/lib ../lib/libstudent.so 

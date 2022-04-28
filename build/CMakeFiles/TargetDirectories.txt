@@ -1,0 +1,5 @@
+/home/idabbadi/Desktop/FGP22SS/build/CMakeFiles/rebuild_cache.dir
+/home/idabbadi/Desktop/FGP22SS/build/CMakeFiles/edit_cache.dir
+/home/idabbadi/Desktop/FGP22SS/build/CMakeFiles/test.dir
+/home/idabbadi/Desktop/FGP22SS/build/CMakeFiles/fgp.dir
+/home/idabbadi/Desktop/FGP22SS/build/CMakeFiles/student.dir

@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/home/idabbadi/Desktop/FGP22SS/build",
+  "command": "/usr/bin/c++  -DWORKING_DIR=\\\"/home/idabbadi/Desktop/FGP22SS/\\\" -I/home/idabbadi/Desktop/FGP22SS/src/helper -I/home/idabbadi/Desktop/FGP22SS/src/student   -Wall -O2 -g -DNDEBUG   -std=gnu++14 -o CMakeFiles/fgp.dir/src/main.cpp.o -c /home/idabbadi/Desktop/FGP22SS/src/main.cpp",
+  "file": "/home/idabbadi/Desktop/FGP22SS/src/main.cpp"
+},
+{
+  "directory": "/home/idabbadi/Desktop/FGP22SS/build",
+  "command": "/usr/bin/c++  -DWORKING_DIR=\\\"/home/idabbadi/Desktop/FGP22SS/\\\" -Dstudent_EXPORTS -I/home/idabbadi/Desktop/FGP22SS/src/helper -I/home/idabbadi/Desktop/FGP22SS/src/student   -Wall -O2 -g -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/student.dir/src/helper/Colour.cpp.o -c /home/idabbadi/Desktop/FGP22SS/src/helper/Colour.cpp",
+  "file": "/home/idabbadi/Desktop/FGP22SS/src/helper/Colour.cpp"
+},
+{
+  "directory": "/home/idabbadi/Desktop/FGP22SS/build",
+  "command": "/usr/bin/c++  -DWORKING_DIR=\\\"/home/idabbadi/Desktop/FGP22SS/\\\" -Dstudent_EXPORTS -I/home/idabbadi/Desktop/FGP22SS/src/helper -I/home/idabbadi/Desktop/FGP22SS/src/student   -Wall -O2 -g -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/student.dir/src/helper/FileHandler.cpp.o -c /home/idabbadi/Desktop/FGP22SS/src/helper/FileHandler.cpp",
+  "file": "/home/idabbadi/Desktop/FGP22SS/src/helper/FileHandler.cpp"
+},
+{
+  "directory": "/home/idabbadi/Desktop/FGP22SS/build",
+  "command": "/usr/bin/c++  -DWORKING_DIR=\\\"/home/idabbadi/Desktop/FGP22SS/\\\" -Dstudent_EXPORTS -I/home/idabbadi/Desktop/FGP22SS/src/helper -I/home/idabbadi/Desktop/FGP22SS/src/student   -Wall -O2 -g -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/student.dir/src/helper/HelpFace.cpp.o -c /home/idabbadi/Desktop/FGP22SS/src/helper/HelpFace.cpp",
+  "file": "/home/idabbadi/Desktop/FGP22SS/src/helper/HelpFace.cpp"
+},
+{
+  "directory": "/home/idabbadi/Desktop/FGP22SS/build",
+  "command": "/usr/bin/c++  -DWORKING_DIR=\\\"/home/idabbadi/Desktop/FGP22SS/\\\" -Dstudent_EXPORTS -I/home/idabbadi/Desktop/FGP22SS/src/helper -I/home/idabbadi/Desktop/FGP22SS/src/student   -Wall -O2 -g -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/student.dir/src/helper/HelpHalfEdge.cpp.o -c /home/idabbadi/Desktop/FGP22SS/src/helper/HelpHalfEdge.cpp",
+  "file": "/home/idabbadi/Desktop/FGP22SS/src/helper/HelpHalfEdge.cpp"
+},
+{
+  "directory": "/home/idabbadi/Desktop/FGP22SS/build",
+  "command": "/usr/bin/c++  -DWORKING_DIR=\\\"/home/idabbadi/Desktop/FGP22SS/\\\" -Dstudent_EXPORTS -I/home/idabbadi/Desktop/FGP22SS/src/helper -I/home/idabbadi/Desktop/FGP22SS/src/student   -Wall -O2 -g -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/student.dir/src/helper/HelpMesh.cpp.o -c /home/idabbadi/Desktop/FGP22SS/src/helper/HelpMesh.cpp",
+  "file": "/home/idabbadi/Desktop/FGP22SS/src/helper/HelpMesh.cpp"
+},
+{
+  "directory": "/home/idabbadi/Desktop/FGP22SS/build",
+  "command": "/usr/bin/c++  -DWORKING_DIR=\\\"/home/idabbadi/Desktop/FGP22SS/\\\" -Dstudent_EXPORTS -I/home/idabbadi/Desktop/FGP22SS/src/helper -I/home/idabbadi/Desktop/FGP22SS/src/student   -Wall -O2 -g -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/student.dir/src/helper/HelpVertex.cpp.o -c /home/idabbadi/Desktop/FGP22SS/src/helper/HelpVertex.cpp",
+  "file": "/home/idabbadi/Desktop/FGP22SS/src/helper/HelpVertex.cpp"
+},
+{
+  "directory": "/home/idabbadi/Desktop/FGP22SS/build",
+  "command": "/usr/bin/c++  -DWORKING_DIR=\\\"/home/idabbadi/Desktop/FGP22SS/\\\" -Dstudent_EXPORTS -I/home/idabbadi/Desktop/FGP22SS/src/helper -I/home/idabbadi/Desktop/FGP22SS/src/student   -Wall -O2 -g -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/student.dir/src/helper/Point.cpp.o -c /home/idabbadi/Desktop/FGP22SS/src/helper/Point.cpp",
+  "file": "/home/idabbadi/Desktop/FGP22SS/src/helper/Point.cpp"
+},
+{
+  "directory": "/home/idabbadi/Desktop/FGP22SS/build",
+  "command": "/usr/bin/c++  -DWORKING_DIR=\\\"/home/idabbadi/Desktop/FGP22SS/\\\" -Dstudent_EXPORTS -I/home/idabbadi/Desktop/FGP22SS/src/helper -I/home/idabbadi/Desktop/FGP22SS/src/student   -Wall -O2 -g -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/student.dir/src/helper/Triangle.cpp.o -c /home/idabbadi/Desktop/FGP22SS/src/helper/Triangle.cpp",
+  "file": "/home/idabbadi/Desktop/FGP22SS/src/helper/Triangle.cpp"
+},
+{
+  "directory": "/home/idabbadi/Desktop/FGP22SS/build",
+  "command": "/usr/bin/c++  -DWORKING_DIR=\\\"/home/idabbadi/Desktop/FGP22SS/\\\" -Dstudent_EXPORTS -I/home/idabbadi/Desktop/FGP22SS/src/helper -I/home/idabbadi/Desktop/FGP22SS/src/student   -Wall -O2 -g -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/student.dir/src/helper/Vector3d.cpp.o -c /home/idabbadi/Desktop/FGP22SS/src/helper/Vector3d.cpp",
+  "file": "/home/idabbadi/Desktop/FGP22SS/src/helper/Vector3d.cpp"
+},
+{
+  "directory": "/home/idabbadi/Desktop/FGP22SS/build",
+  "command": "/usr/bin/c++  -DWORKING_DIR=\\\"/home/idabbadi/Desktop/FGP22SS/\\\" -Dstudent_EXPORTS -I/home/idabbadi/Desktop/FGP22SS/src/helper -I/home/idabbadi/Desktop/FGP22SS/src/student   -Wall -O2 -g -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/student.dir/src/student/Face.cpp.o -c /home/idabbadi/Desktop/FGP22SS/src/student/Face.cpp",
+  "file": "/home/idabbadi/Desktop/FGP22SS/src/student/Face.cpp"
+},
+{
+  "directory": "/home/idabbadi/Desktop/FGP22SS/build",
+  "command": "/usr/bin/c++  -DWORKING_DIR=\\\"/home/idabbadi/Desktop/FGP22SS/\\\" -Dstudent_EXPORTS -I/home/idabbadi/Desktop/FGP22SS/src/helper -I/home/idabbadi/Desktop/FGP22SS/src/student   -Wall -O2 -g -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/student.dir/src/student/HalfEdge.cpp.o -c /home/idabbadi/Desktop/FGP22SS/src/student/HalfEdge.cpp",
+  "file": "/home/idabbadi/Desktop/FGP22SS/src/student/HalfEdge.cpp"
+},
+{
+  "directory": "/home/idabbadi/Desktop/FGP22SS/build",
+  "command": "/usr/bin/c++  -DWORKING_DIR=\\\"/home/idabbadi/Desktop/FGP22SS/\\\" -Dstudent_EXPORTS -I/home/idabbadi/Desktop/FGP22SS/src/helper -I/home/idabbadi/Desktop/FGP22SS/src/student   -Wall -O2 -g -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/student.dir/src/student/Mesh.cpp.o -c /home/idabbadi/Desktop/FGP22SS/src/student/Mesh.cpp",
+  "file": "/home/idabbadi/Desktop/FGP22SS/src/student/Mesh.cpp"
+},
+{
+  "directory": "/home/idabbadi/Desktop/FGP22SS/build",
+  "command": "/usr/bin/c++  -DWORKING_DIR=\\\"/home/idabbadi/Desktop/FGP22SS/\\\" -Dstudent_EXPORTS -I/home/idabbadi/Desktop/FGP22SS/src/helper -I/home/idabbadi/Desktop/FGP22SS/src/student   -Wall -O2 -g -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/student.dir/src/student/Util.cpp.o -c /home/idabbadi/Desktop/FGP22SS/src/student/Util.cpp",
+  "file": "/home/idabbadi/Desktop/FGP22SS/src/student/Util.cpp"
+},
+{
+  "directory": "/home/idabbadi/Desktop/FGP22SS/build",
+  "command": "/usr/bin/c++  -DWORKING_DIR=\\\"/home/idabbadi/Desktop/FGP22SS/\\\" -Dstudent_EXPORTS -I/home/idabbadi/Desktop/FGP22SS/src/helper -I/home/idabbadi/Desktop/FGP22SS/src/student   -Wall -O2 -g -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/student.dir/src/student/Vertex.cpp.o -c /home/idabbadi/Desktop/FGP22SS/src/student/Vertex.cpp",
+  "file": "/home/idabbadi/Desktop/FGP22SS/src/student/Vertex.cpp"
+}
+]
